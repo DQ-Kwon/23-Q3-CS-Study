@@ -23,17 +23,12 @@
 
 3. **프로세스**
 
-   - 프로세스 - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
-   - 프로세스 스케줄링 - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
-   - 프로세스간 통신 - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
-   - PCB와 Context Switching - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
+   - 프로세스 - [:page_facing_up:](./Note/Process.md) \( :heavy_check_mark: \) / [:question:](./Interview/Process.md) \( :construction: \)
    - IPC - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
 
 4. **스레드**
 
-   - 프로세스와 스레드의 차이 - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
-   - 다중 코어 프로그래밍 - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
-   - 다중 스레드 모델 - [:page_facing_up:](./Note/#.md) \( :construction: \) / [:question:](./Interview/#.md) \( :construction: \)
+   - 스레드 - [:page_facing_up:](./Note/Thread.md) \( :heavy_check_mark: \) / [:question:](./Interview/Thread.md) \( :construction: \)
 
 ### :file_folder: Session 03
 
