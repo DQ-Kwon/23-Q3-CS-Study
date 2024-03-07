@@ -79,27 +79,25 @@
 
 7. ### :file_folder: Session 07 - 메모리
 
-   - [:page_facing_up: **메모리**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **메모리**](./Note/Memory.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **메모리 할당**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **메모리 할당**](./Note/Memory.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **페이징과 세그멘테이션**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **스와핑**](./Note/Memory.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **스와핑**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **가상 메모리**](./Note/Memory.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **가상 메모리**](./Note/) <sub></sub> - :construction:
-     - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **메모리 압축**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **메모리 압축**](./Note/Memory.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
 
 
 8. ### :file_folder: Session 08 - 파일 시스템
 
-   - [:page_facing_up: **파일**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **파일**](./Note/FileSystem.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **디렉터리 구조**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **디렉터리 구조**](./Note/FileSystem.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **파일 할당 방법**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **파일 할당 방법**](./Note/FileSystem.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
-   - [:page_facing_up: **파티션과 마운팅**](./Note/) <sub></sub> - :construction:
+   - [:page_facing_up: **파티션과 마운팅**](./Note/FileSystem.md) <sub></sub> - :construction:
      - [:question: Interview](./Interview/) <sub>인터뷰</sub>
